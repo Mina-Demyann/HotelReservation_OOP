@@ -11,8 +11,6 @@ The **Hotel Reservation System** is a Java application designed to handle hotel 
 4. [Project Structure](#project-structure)
 5. [How to Run](#how-to-run)
 6. [Team Members](#team-members)
-7. [Future Enhancements](#future-enhancements)
-
 ---
 
 ## Features
